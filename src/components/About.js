@@ -16,7 +16,7 @@ const About = () => {
                 <div className="title-box text-left">
                   <h6>about me</h6>
                   <h3>
-                    My mission is design develop the best Web sites around.
+                    My mission is design develop the best Web sites around....
                   </h3>
                 </div>
               </div>
